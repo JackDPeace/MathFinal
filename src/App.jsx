@@ -7,7 +7,7 @@ import getRandomArray from './util/getRandomArray'
 import shuffleArray from './util/shuffle'
 import Card from './Card'
 import hexCodes from './util/randomColors'
-const maxGuess = 300
+const maxGuess = 10
 function App() {
   const [difficulty,setDifficuly] = useState('');
   const [selected,SetSelected] = useState([-1,-1]);
