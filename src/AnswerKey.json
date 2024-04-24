@@ -1,0 +1,152 @@
+[
+    {
+        "question": "5 = x + y \t 2y + x = 7",
+        "answer": {"x": 3, "y": 2},
+        "difficulty": "easy"
+      },
+      {
+        "question": "3x + y = 6 \t 4x - 3y = -5",
+        "answer": {"x": 1, "y": 3},
+        "difficulty": "easy"
+      },
+      {
+        "question": "2x - y = -5 \t y = 1 - 3x",
+        "answer": {"x": 1, "y": -2},
+        "difficulty": "easy"
+      },
+      {
+        "question": "3x - y = 13 \t 3y - 2x = -4",
+        "answer": {"x": 5, "y": 2},
+        "difficulty": "easy"
+      },
+      {
+        "question": "3x + y = 5 \t 2x - 3y = 7",
+        "answer": {"x": 2, "y": -1},
+        "difficulty": "easy"
+      },
+      {
+        "question": "4x + y = -5 \t -2x - 2y = -2",
+        "answer": {"x": -2, "y": 3},
+        "difficulty": "easy"
+      },
+      {
+        "question": "2x + y = 5 \t x - y = 4",
+        "answer": {"x": 3, "y": -1},
+        "difficulty": "easy"
+      },
+      {
+        "question": "x + y = 3 \t -2x - y = -1",
+        "answer": {"x": -2, "y": 5},
+        "difficulty": "easy"
+      },
+      {
+        "question": "4x - 3y = 1 \t 5x - 9y = -4",
+        "answer": {"x": 1, "y": 1},
+        "difficulty": "easy"
+      },
+      {
+        "question": "3x + 2y = 2 \t 6x + 5y = 8",
+        "answer": {"x": -2, "y": 4},
+        "difficulty": "easy"
+      },
+      {
+        "question": "4x - y = 20 \t -2x - 2y = 10",
+        "answer": {"x": 3, "y": -8},
+        "difficulty": "medium"
+      },
+      {
+        "question": "2x + y = 20 \t 6x - 5y = 12",
+        "answer": {"x": 7, "y": 6},
+        "difficulty": "medium"
+      },
+      {
+        "question": "x + 2y = 12 \t 3x + 4y = 4",
+        "answer": {"x": -20, "y": 16},
+        "difficulty": "medium"
+      },
+      {
+        "question": "2x + 3y = 10 \t 3x + 4y = 18",
+        "answer": {"x": 14, "y": -6},
+        "difficulty": "medium"
+      },
+      {
+        "question": "3x - y = 29 \t -2x + 5y = -2",
+        "answer": {"x": 11, "y": 4},
+        "difficulty": "medium"
+      },
+      {
+        "question": "4x + 2y = 16 \t 5x - 2y = 38",
+        "answer": {"x": 6, "y": -4},
+        "difficulty": "medium"
+      },
+      {
+        "question": "2x - 3y = 18 \t 5x - 3y = 9",
+        "answer": {"x": -3, "y": -8},
+        "difficulty": "medium"
+      },
+      {
+        "question": "2x + y = 15 \t x - y = 45",
+        "answer": {"x": 20, "y": 25},
+        "difficulty": "medium"
+      },
+      {
+        "question": "y = -3x - 17 \t -x - 4y = -20",
+        "answer": {"x": -8, "y": 7},
+        "difficulty": "medium"
+      },
+      {
+        "question": "3x - 8y = -44 \t -3x + 10y = 58",
+        "answer": {"x": 4, "y": 7},
+        "difficulty": "medium"
+      },
+      {
+        "question": "3x + y = 6 \t x + y = 1",
+        "answer": {"x": 2.5, "y": -1.5},
+        "difficulty": "hard"
+      },
+      {
+        "question": "-2x - 5y = 16 \t 2x - 3y = -16",
+        "answer": {"x": -8, "y": 0},
+        "difficulty": "hard"
+      },
+      {
+        "question": "4x - 5y = 14 \t -6x + 6y = -6",
+        "answer": {"x": -9, "y": -10},
+        "difficulty": "hard"
+      },
+      {
+        "question": "-5x + 2y = 11 \t -3x + 4y = -13",
+        "answer": {"x": -5, "y": -7},
+        "difficulty": "hard"
+      },
+      {
+        "question": "-8x - 4y = -64 \t 6x + 2y = 33",
+        "answer": {"x": "1/2", "y": 15},
+        "difficulty": "hard"
+      },
+      {
+        "question": "2x - 3y = 15 \t 3x + 3y = 40",
+        "answer": {"x": 11, "y": "7/3"},
+        "difficulty": "hard"
+      },
+      {
+        "question": "-7x - 2y = 0 \t 14x + 7y = 0",
+        "answer": {"x": 0, "y": 0},
+        "difficulty": "hard"
+      },
+      {
+        "question": "8x - 6y = -20 \t -16x + 7y = 30",
+        "answer": {"x": -1, "y": 2},
+        "difficulty": "hard"
+      },
+      {
+        "question": "-3x + 14y = -28 \t -2x + 7y = -14",
+        "answer": {"x": 0, "y": -2},
+        "difficulty": "hard"
+      }, 
+      {
+        "question": "4x - 4y = 4 \t x + 4y = -14",
+        "answer": {"x": -2, "y": -3},
+        "difficulty": "hard"
+      }
+]
